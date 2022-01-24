@@ -1,0 +1,1 @@
+Pandas kullanırken csv yerine xlsx formatını kullandım.
